@@ -1,0 +1,24 @@
+{
+    "name": "TWCSS-e-school",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DeveloperOmarFaruk/TWCSS-e-school.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://DeveloperOmarFaruk.github.io/TWCSS-e-school",
+    "bugs": {
+        "url": "https://github.com/DeveloperOmarFaruk/TWCSS-e-school/issues"
+    },
+    "homepage": "https://github.com/DeveloperOmarFaruk/TWCSS-e-school#readme",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    }
+}
